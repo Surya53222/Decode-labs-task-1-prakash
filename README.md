@@ -105,6 +105,6 @@ This project successfully demonstrates responsive web design techniques and mode
 
 Developed By
 
-surya prakash
+Surya prakash
 
 Full Stack Development Internship
